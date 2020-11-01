@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="psychonauts_Inc 2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/psychonauts_Inc 2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/psychonauts_Inc 2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="archivo_Clientes_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="archivo_Clientes_Lib.h" />
+		<Unit filename="archivo_Consumos_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="archivo_Consumos_Lib.h" />
+		<Unit filename="carga_Random_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="carga_Random_Lib.h" />
+		<Unit filename="cliente_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cliente_Lib.h" />
+		<Unit filename="consumos_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consumos_Lib.h" />
+		<Unit filename="gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gotoxy.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_Lib.h" />
+		<Unit filename="stats_Lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stats_Lib.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

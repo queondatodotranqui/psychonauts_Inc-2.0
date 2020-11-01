@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1604088528 source:c:\users\locus\desktop\psychonauts_inc 2.0\archivo_clientes_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"archivo_Clientes_Lib.h"
+	"cliente_Lib.h"
+	<conio.h>
+	<string.h>
+
+1604086263 c:\users\locus\desktop\psychonauts_inc 2.0\archivo_clientes_lib.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente_Lib.h"
+
+1604086337 c:\users\locus\desktop\psychonauts_inc 2.0\cliente_lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1604088459 source:c:\users\locus\desktop\psychonauts_inc 2.0\cliente_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente_Lib.h"
+	"archivo_Clientes_Lib.h"
+	<conio.h>
+	<string.h>
+
+1604088461 source:c:\users\locus\desktop\psychonauts_inc 2.0\consumos_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos_Lib.h"
+	"archivo_Consumos_Lib.h"
+	<conio.h>
+	<string.h>
+
+1604086244 c:\users\locus\desktop\psychonauts_inc 2.0\consumos_lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1604086288 c:\users\locus\desktop\psychonauts_inc 2.0\archivo_consumos_lib.h
+	<stdio.h>
+	<stdlib.h>
+	"consumos_Lib.h"
+
+1491400450 source:c:\users\locus\desktop\psychonauts_inc 2.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1604088572 source:c:\users\locus\desktop\psychonauts_inc 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_Lib.h"
+	"cliente_Lib.h"
+	"consumos_Lib.h"
+	"carga_Random_Lib.h"
+	"archivo_Clientes_Lib.h"
+	"archivo_Consumos_Lib.h"
+	"stats_Lib.h"
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+
+1603925982 c:\users\locus\desktop\psychonauts_inc 2.0\menu_lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1604088653 c:\users\locus\desktop\psychonauts_inc 2.0\carga_random_lib.h
+	<stdio.h>
+	<stdlib.h>
+	"consumos_Lib.h"
+
+1604086294 c:\users\locus\desktop\psychonauts_inc 2.0\stats_lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1491399896 c:\users\locus\desktop\psychonauts_inc 2.0\gotoxy.h
+
+1604088616 source:c:\users\locus\desktop\psychonauts_inc 2.0\menu_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_Lib.h"
+	"cliente_Lib.h"
+	"consumos_Lib.h"
+	"archivo_Clientes_Lib.h"
+	"archivo_Consumos_Lib.h"
+	"stats_Lib.h"
+	<conio.h>
+	<string.h>
+	"gotoxy.h"
+
+1604088523 source:c:\users\locus\desktop\psychonauts_inc 2.0\stats_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"stats_Lib.h"
+	"consumos_Lib.h"
+	"archivo_Consumos_Lib.h"
+	<conio.h>
+	<string.h>
+
+1604088755 source:c:\users\locus\desktop\psychonauts_inc 2.0\archivo_consumos_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos_Lib.h"
+	"cliente_Lib.h"
+	"archivo_Consumos_Lib.h"
+	"archivo_Clientes_Lib.h"
+	<conio.h>
+	<string.h>
+
+1604088790 source:c:\users\locus\desktop\psychonauts_inc 2.0\carga_random_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"carga_Random_Lib.h"
+	"cliente_Lib.h"
+	"consumos_Lib.h"
+	"archivo_Clientes_Lib.h"
+	"archivo_Consumos_Lib.h"
+	<conio.h>
+	<string.h>
+
